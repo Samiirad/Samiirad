@@ -2,6 +2,8 @@
 
 Welcome to my GitHub profile! I'm passionate about data analysis and love turning data into actionable insights.
 
+https://readme-jokes.vercel.app/api?showBorder&theme=gotham)
+
 ## 🔭 Areas of Interest
 - Data Analysis 📊
 - Data Cleaning 🧹
