@@ -14,7 +14,6 @@
 
 <p align="center"> 
 
-alt="Python" height="60"/> </a> 
 
 <a href="#" target="_blank"> <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL" height="85"/> </a> 
 
@@ -40,7 +39,6 @@ alt="Python" height="60"/> </a>
 
 <p align="center"> 
 
-alt="Python" height="60"/> </a> 
 
 <a href="#" target="_blank"> <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL" height="85"/> </a> 
 
